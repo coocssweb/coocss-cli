@@ -1,27 +1,27 @@
 {
   "name": "@coocss/cli",
-  "version": "1.2.0",
+  "version": "1.2.2",
   "description": "Just a simple CLI.",
   "main": "./bin/coocss.js",
   "scripts": {
-    "meitu": "node ./bin/coocss.js"
+    "coocss": "node ./bin/coocss.js"
   },
   "bin": {
-    "meitu": "./bin/coocss.js"
+    "coocss": "./bin/coocss.js"
   },
   "repository": {
-    "url": "https://github.com/fex/meitu-cli.git",
+    "url": "https://github.com/coocssweb/coocss-cli.git",
     "type": "git"
   },
   "keywords": [
-    "meitu",
+    "coocss",
     "cli"
   ],
   "bugs": {
-    "url": "https://gitlab.meitu.com/fex/meitu-cli/issues"
+    "url": "https://github.com/coocssweb/coocss-cli/issues"
   },
-  "homepage": "https://github.com/fex/meitu-cli#readme",
-  "author": "lbc <lbc@meitu.com>",
+  "homepage": "https://github.com/coocssweb/coocss-cli",
+  "author": "coocss <1974740999@qq.com>",
   "license": "MIT",
   "dependencies": {
     "child_process": "^1.0.2",
