@@ -2,7 +2,7 @@
   "templates": {
     "html5": {
       "branch": "master",
-      "git": "https://github.com/MeituPhone/html5.git"
+      "git": "https://github.com/coocssweb/mpa-typescript.git"
     }
   }
 }
